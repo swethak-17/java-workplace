@@ -37,7 +37,7 @@ This repository contains my daily Java practice programs. I created it to improv
 
 ## 📅 Daily Practice
 
-I upload **5 Java programs every day** to stay consistent and improve my coding skills.
+I upload ** Java programs every day** to stay consistent and improve my coding skills.
 
 ## 📈 Progress
 
