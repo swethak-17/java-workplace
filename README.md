@@ -10,7 +10,7 @@ This repository contains my daily Java practice programs. I created it to improv
 
 - Learn Java from beginner to advanced
 - Practice coding every day
-- Upload 5 Java programs daily
+- Upload  Java programs daily
 - Improve problem-solving skills
 - Build a strong GitHub portfolio
 
